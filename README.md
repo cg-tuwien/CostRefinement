@@ -1,4 +1,4 @@
-# Cost Volume Refinement for Depth Prediction
+# Cost Refinement
 <div align="center">
   <h4><a href="https://www.cg.tuwien.ac.at/research/publications/2021/cardoso-2021-cost">Website</a> | <a href="https://ieeexplore.ieee.org/document/9412730">Paper</a></h4>
 </div>
