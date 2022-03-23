@@ -6,7 +6,7 @@
 ![teaser](docs/teaser.jpg)
 
 **Cost Volume Refinement for Depth Prediction**  
-[Joao Liborio Cardoso](jaliborc.com), [Nuno Gonçalves](https://ieeexplore.ieee.org/author/37281864700), [Michael Wimmer](https://www.cg.tuwien.ac.at/staff/MichaelWimmer)  
+[Joao Liborio Cardoso](https://www.jaliborc.com), [Nuno Gonçalves](https://ieeexplore.ieee.org/author/37281864700), [Michael Wimmer](https://www.cg.tuwien.ac.at/staff/MichaelWimmer)  
 In 2020 25th International Conference on Pattern Recognition (ICPR)
 
 *Light-field cameras are becoming more popular in the consumer market. Their data redundancy allows, in theory, to accurately refocus images after acquisition and to predict the depth of each point visible from the camera. Combined, these two features allow for the generation of full-focus images, which is impossible in traditional cameras. Multiple methods for depth prediction from light fields (or stereo) have been proposed over the years. A large subset of these methods relies on cost-volume estimates – 3D objects where each layer represents a heuristic of whether each point in the image is at a certain distance from the camera. Generally, this volume is used to regress a depth map, which is then refined for better results.*
