@@ -1,11 +1,7 @@
 # Cost Volume Refinement for Depth Prediction
-<div align="center">
-  <h4><a href="https://www.cg.tuwien.ac.at/research/publications/2021/cardoso-2021-cost">Website</a> | <a href="https://ieeexplore.ieee.org/document/9412730">Paper</a></h4>
-</div>
-
 ![teaser](docs/teaser.jpg)
 
-**Cost Volume Refinement for Depth Prediction**  
+**Cost Volume Refinement for Depth Prediction** [:page_facing_up:](https://repositum.tuwien.at/handle/20.500.12708/19341)  
 [Joao Liborio Cardoso](https://www.jaliborc.com), [Nuno Gonçalves](https://ieeexplore.ieee.org/author/37281864700), [Michael Wimmer](https://www.cg.tuwien.ac.at/staff/MichaelWimmer)  
 In 2020 25th International Conference on Pattern Recognition (ICPR)
 
